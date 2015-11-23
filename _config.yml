@@ -1,0 +1,28 @@
+name: Life Fight Gear
+favicon: null
+layout_spectrum: 0.5458589806221426
+typography_spectrum: 0.2707764497026801
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2829733651597053
+  lightness: 0.5682711973786354
+  saturation: 0.11862143990583718
+  rhythmicContrast: 0.5501162763684988
+purpose: []
