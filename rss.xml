@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Life Fight Gear]]></title>
         <description><![CDATA[Life Fight Gear]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/life-fight-gear/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 03:59:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 04:00:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/life-fight-gear/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.originalswat.com/media/catalog/category/Category-Classic-Header_2.jpg">]]></description>
+            <link>https://thegrid.ai/life-fight-gear/319dd947-05a9-46c6-8833-ecf7ce1aaee2/index.html</link>
+            <guid isPermaLink="false">319dd947-05a9-46c6-8833-ecf7ce1aaee2</guid>
+            <pubDate>Mon, 23 Nov 2015 03:59:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.originalswat.com/media/catalog/product/cache/1/small_image/297x161/9df78eab33525d08d6e5fb8d27136e95/1/1/115201-hero.jpg">]]></description>
-            <link>undefinedbdf41980-021f-4e7c-ad70-5b11e077938a/index.html</link>
+            <link>https://thegrid.ai/life-fight-gear/bdf41980-021f-4e7c-ad70-5b11e077938a/index.html</link>
             <guid isPermaLink="false">bdf41980-021f-4e7c-ad70-5b11e077938a</guid>
             <pubDate>Mon, 23 Nov 2015 03:59:32 GMT</pubDate>
         </item>
